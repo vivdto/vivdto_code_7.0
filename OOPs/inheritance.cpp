@@ -21,7 +21,7 @@ class anmimal{
         }
     };
 
-
+//Protected ko Main m call nhi kr sakte but class m kr sakte h
 int main(){
     Fish f1;
     f1.fins = 3;
